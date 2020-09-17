@@ -1,10 +1,6 @@
 
 <h1>YoloV3 Fire Detection Model</h1>
 
-<br>
-<br>
-<img src="./results/result1.jpg" alt="">
-
 <h3 style="text-decoration: underline;">Dependencies</h3>
 
 <ul>
